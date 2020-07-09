@@ -1,1 +1,1 @@
-Beach themed version of my static website. Andrew Bjork helped collaborate in the later process of making this, and it may replace the current 'Ted Web World'. I like to include it as a demo highlighting my interest in working with different themes
+Beach themed version of my static website. Andrew Bjork helped collaborate in the later process of making this, and it may replace the current 'Ted Web World'. I like to include it as a demo highlighting my interest in working with different themes. Deployed at https://tedwedworldbeach.herokuapp.com/
