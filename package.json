@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
+    "start": "node index.js",
     "build": "next build",
     "export": "next export",
     "deploy": "cd out && now --public",
