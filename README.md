@@ -1,0 +1,1 @@
+Beach themed version of my static website. May replace the current 'Ted Web World'.
