@@ -22,10 +22,14 @@ export default class MyDocument extends Document {
                     <Main />
                     <NextScript />
                 </body>
-        <style global jsx>{`
+        <style jsx>{`
         body {
             font-family: 'Fredoka One', cursive;
             background: #fff2bc;
+        }
+        html, body {
+            max-width: 100%;
+            overflow-x: hidden;
         }
         `}</style>
             </html>

@@ -103,6 +103,10 @@ const Index = () => <Layout>
   .transparent {
       background: rgba(10, 175, 175, 0.5);
   }
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
   `}
 </style>
     
