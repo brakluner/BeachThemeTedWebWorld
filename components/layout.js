@@ -14,7 +14,7 @@ Router.onRouteChangeError = () => NProgress.done();
 export default ({ children, title }) => (
   <div className="root">
     <Head>
-      <title>MainSource LLC</title>
+      <title>Ted Web World Beach</title>
     </Head>
     <header className = "fixed-top">
       <Link href="/">
