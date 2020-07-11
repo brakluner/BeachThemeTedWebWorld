@@ -1,7 +1,14 @@
+import React, { Component } from "react";
 import Layout from "../components/layout";
-import Box from "../components/box";
+import ReactPlayer from 'react-player'
 
-const Index = () => <Layout>
+export default class Index extends Component {
+  
+  
+
+  render(){
+    return(
+  <Layout>
 <div>
     <p>Hello</p>
 </div>
@@ -19,7 +26,7 @@ const Index = () => <Layout>
 {/* <h1 className = "section-text red">Welcome to MainSource!</h1> */}
     </div>
 
-      <div>
+      <div className="Yeti">
       <img src="/static/ocean.jpg" alt="hot dogs"/>
 
 
@@ -34,7 +41,12 @@ const Index = () => <Layout>
 
 
 
-
+     <ReactPlayer 
+                    playing
+                    url={[
+                        {src: "/static/YetiWave.wav", type: "audio/wav"}
+                    ]}
+                    src="/static/YetiWave.wav" />
 
 
 <style jsx>
@@ -111,6 +123,7 @@ const Index = () => <Layout>
 </style>
     
     
-    </Layout>;
-
-export default Index;
+    </Layout>)
+    
+    }
+}
