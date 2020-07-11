@@ -41,12 +41,7 @@ export default class Index extends Component {
 
 
 
-     <ReactPlayer 
-                    playing
-                    url={[
-                        {src: "/static/YetiWave.wav", type: "audio/wav"}
-                    ]}
-                    src="/static/YetiWave.wav" />
+     
 
 
 <style jsx>
