@@ -20,7 +20,7 @@ export default class Index extends Component {
   <h1 className="display-4 red">TED WEB WORLD!</h1>
   <p className="lead">I look forward towards doing your web work on your next project.</p>
   <hr className="my-4" />
-  <p>Leader in full stack web development and delivering customer satisfaction.</p>
+  <p>Leader! Full stack web development! Customer satisfaction.</p>
   <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 </div>
 {/* <h1 className = "section-text red">Welcome to MainSource!</h1> */}
