@@ -31,6 +31,7 @@
     "react-dom": "^16.13.1",
     "react-h5-audio-player": "^3.7.2",
     "react-player": "^2.5.0",
+    "sass": "^1.43.4",
     "set-value": ">=4.1.0",
     "ssri": ">=7.1.1",
     "y18n": ">=4.0.1"
