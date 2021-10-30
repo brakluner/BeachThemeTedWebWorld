@@ -1,17 +1,18 @@
 import Layout from "../components/layout";
+import AudioPlayer from 'react-h5-audio-player';
 
 export default () => (
     <Layout title="music">
-        <audio controls src="/static/pandemonium.wav"></audio>
-        <audio controls src="/static/Surge1.wav"></audio>
-        <audio controls src="/static/Iwasawindow.wav"></audio>
-        <audio controls src="/static/Giant.wav"></audio>
-        <audio controls src="/static/doom76.wav"></audio>
-        <audio controls src="/static/BrainSodaPosting026.wav"></audio>
-        <audio controls src="/static/BrainSodaPosting027.wav"></audio>
-        <audio controls src="/static/BrainSodaPosting049.wav"></audio>
-        <audio controls src="/static/BrainSodaPosting007.wav"></audio>
-        <audio controls src="/static/Whywontpeopleleavemealone.wav"></audio>
+        <AudioPlayer controls src="/static/pandemonium.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/Surge1.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/Iwasawindow.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/Giant.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/doom76.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/BrainSodaPosting026.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/BrainSodaPosting027.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/BrainSodaPosting049.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/BrainSodaPosting007.wav"></AudioPlayer>
+        <AudioPlayer controls src="/static/Whywontpeopleleavemealone.wav"></AudioPlayer>
 
 
 <style jsx>{`
