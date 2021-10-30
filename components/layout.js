@@ -26,6 +26,9 @@ export default ({ children, title }) => (
       <Link href="/videos">
         <a>Videos</a>
       </Link>
+      <Link href="/music">
+        <a>Music</a>
+      </Link>
       <Link href="/contactus">
         <a>Contact Us</a>
       </Link>
