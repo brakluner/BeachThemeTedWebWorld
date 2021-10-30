@@ -18,9 +18,9 @@ export default class Index extends Component {
     <div className = "text-container text-container-b">
     <div className="jumbotron transparent">
   <h1 className="display-4 red">TED WEB WORLD!</h1>
-  <p className="lead">Exposing the newest technological secrets and giving the users the edge needed to advance in the modern era.</p>
+  <p className="lead">Delving headfirst into the newest dark secrets and giving the users the lazer-sharp edge needed to advance themselves and their progeny into the new millenium.</p>
   <hr className="my-4" />
-  <p>Leaders in giving you the lasest secrets. News and updates about technology. Clues that inspire users to go further.</p>
+  <p>Leaders in harvesting the latest secrets. News and updates about technology. Clues that inspire users to go further into the void.</p>
   <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 </div>
 {/* <h1 className = "section-text red">Welcome to MainSource!</h1> */}
