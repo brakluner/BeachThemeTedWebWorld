@@ -24,9 +24,9 @@ export default class About extends Component {
     <div className = "text-container text-container-b">
     <div className="jumbotron transparent">
   <h1 className="display-4 red">TED WEB WORLD!</h1>
-  <p className="lead">I look forward towards doing your web work on your next project.</p>
+  <p className="lead">Look forward to your next project. Have confidence. Be awesome. Trample your enemies in the wake of blood emanating from the mouths of those who wish to slander you.</p>
   <hr className="my-4" />
-  <p>Leader in full stack web development and delivering customer satisfaction.</p>
+  <p>Leader. Creator. Thought Haver.</p>
   <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 </div>
 {/* <h1 className = "section-text red">Welcome to MainSource!</h1> */}
