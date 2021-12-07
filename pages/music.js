@@ -8,9 +8,9 @@ export default () => (
                 <p>May take a moment for files to load. I'm using free hosting</p>
         <br/>
                 <p>Original music by Ted Web</p>
-        <AudioPlayer className="PLAYER" controls src="/static/yamaha.wav"></AudioPlayer>
         <AudioPlayer className="PLAYER" controls src="/static/pandemonium.wav"></AudioPlayer>
         <AudioPlayer controls src="/static/Surge1.wav"></AudioPlayer>
+        <AudioPlayer className="PLAYER" controls src="/static/yamaha.wav"></AudioPlayer>
         <AudioPlayer controls src="/static/Iwasawindow.wav"></AudioPlayer>
         <AudioPlayer controls src="/static/Giant.wav"></AudioPlayer>
         <AudioPlayer controls src="/static/doom76.wav"></AudioPlayer>
