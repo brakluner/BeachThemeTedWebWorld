@@ -7,6 +7,7 @@ export default () => (
         <p>May take a moment for files to load. I'm using free hosting</p>
         <video src="/static/hookah10001-0120.mkv" autoPlay loop></video>
         <video src="/static/photonVampire0001-0238.mkv" autoPlay loop></video>
+        <video src="/static/handSanitizer30001-0160.mkv" autoPlay loop></video>
         <video src="/static/hairyspidez0001-0120.mkv" autoPlay loop></video>
         <video src="/static/AAH120001-0120.mkv" autoPlay loop></video>
 
